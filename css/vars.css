@@ -1,0 +1,20 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+  --first-brand-color: #bdc6cd;
+  --second-brand-color: #ddcccc;
+  --third-brand-color: #e9e9e9;
+
+  --main-font:  'Open Sans Condensed';
+  --title-font:  'Open Sans Condensed Bold';
+  --main-title-font: 'Gochi Hand';
+
+  font-size: 62.5%;
+}
